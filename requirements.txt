@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+xgboost
+mlflow
+evidently
+optuna
+joblib
+fastapi
+uvicorn
+pydantic
+imbalanced-learn
+pytest
